@@ -8,18 +8,16 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Услуги
+    link_text: Начало
   - link: "#swap"
-    link_text: Swap
+    link_text: Услуги
   - link: "#customize"
-    link_text: Customize
+    link_text: Цени
   - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+    link_text: Контакти
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    button_text: '0888 555 682'
 - template: hero-banner-w-image
   block: hero-2
   slug: features
