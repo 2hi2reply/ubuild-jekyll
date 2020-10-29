@@ -12,7 +12,7 @@ page_sections:
   - link: "#swap"
     link_text: Услуги / Цени
   - link: "#responsive"
-    link_text: '0888 758 185'
+    link_text: Контакти
 - template: hero-banner-w-image
   block: hero-2
   slug: features
