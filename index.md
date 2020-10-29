@@ -10,11 +10,9 @@ page_sections:
   - link: "/"
     link_text: Начало
   - link: "#swap"
-    link_text: Услуги
-  - link: "#customize"
-    link_text: Цени
+    link_text: Услуги / Цени
   - link: "#responsive"
-    link_text: Контакти
+    link_text: '0888 758 185'
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -23,7 +21,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: '0888 358 486'
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
