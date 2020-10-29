@@ -23,7 +23,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: '0888 358 486'
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/10/29/stock-photo-postal-service-delivery-of-a-package-through-a-delivery-service-218517865.jpg"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
